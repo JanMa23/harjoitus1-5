@@ -1,0 +1,1 @@
+Koulun antamia JS harjoituksia.
